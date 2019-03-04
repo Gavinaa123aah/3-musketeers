@@ -3,10 +3,10 @@
 - [Introduction](#Introduction)
 - [How to do](#How-to-do)
 - [Dependencies](#dependencies)
-# Introduction?
+# Introduction
 this is a currency conversion tool which can be used to calculate exchange rate between differant currencies according to Real-time currency
 
-## How to do？
+## How to do
 
 * 方便的`导入导出`功能
     *  直接把一个markdown的文本文件拖放到当前这个页面就可以了
