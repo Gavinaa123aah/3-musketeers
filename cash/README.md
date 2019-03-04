@@ -1,7 +1,7 @@
 
 
-- [Introduction](##-MaHua是什么?)
-- [🎯 Objectives](##-捐助开发者)
+- [Introduction](##MaHua是什么?)
+- [🎯 Objectives](##捐助开发者)
 ## MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
