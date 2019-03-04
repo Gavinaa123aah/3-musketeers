@@ -1,11 +1,24 @@
 
 
 - [Introduction](#Introduction)
+- [Dependencies](#Dependencies)
 - [How to do](#How-to-do)
-- [Dependencies](#dependencies)
+
 # Introduction
 this is a currency conversion tool which can be used to calculate exchange rate between differant currencies according to Real-time currency
 
+## Dependencies
+there are some dependencies to be installed:
+```json
+	"dependencies": {
+		"chalk": "^2.4.2",
+		"conf": "^2.2.0",
+		"got": "^9.6.0",
+		"meow": "^5.0.0",
+		"money": "^0.2.0",
+		"ora": "^3.2.0"
+	}
+```
 ## How to do
 
 * 方便的`导入导出`功能
