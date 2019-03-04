@@ -1,14 +1,14 @@
 
 
 - [Introduction](#Introduction)
-- [How to de](#How-to-do)
+- [How to do](#How-to-do)
 - [Dependencies](#dependencies)
 # Introduction?
 一个在线编辑markdown文档的编辑器
 
 向Mac下优秀的markdown编辑器mou致敬
 
-## How to de？
+## How to do？
 
 * 方便的`导入导出`功能
     *  直接把一个markdown的文本文件拖放到当前这个页面就可以了
