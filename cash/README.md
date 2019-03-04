@@ -4,9 +4,7 @@
 - [How to do](#How-to-do)
 - [Dependencies](#dependencies)
 # Introduction?
-一个在线编辑markdown文档的编辑器
-
-向Mac下优秀的markdown编辑器mou致敬
+this is a currency conversion tool which can be used to calculate exchange rate between differant currencies according to Real-time currency
 
 ## How to do？
 
