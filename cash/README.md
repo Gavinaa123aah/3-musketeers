@@ -1,7 +1,7 @@
 
 
 - [Introduction](##MaHua是什么?)
-- [🎯 Objectives](##捐助开发者)
+- [🎯 Objectives](#installation)
 ## MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
@@ -39,7 +39,7 @@
 * [ace](http://ace.ajax.org/)
 * [jquery](http://jquery.com)
 
-## 关于作者
+# installation
 
 ```javascript
   var ihubo = {
