@@ -36,8 +36,36 @@ zcz
 
 zc
 zc
+t
+y
+y
+r
+r
+r
+r
+r
+r
+r
 Being a Good Programmer Isn't Just About Writing Code.
 
 It's also writing documentations, comments and unit tests.
 
 ## Objectives
+t
+y
+
+r
+f
+df
+d
+f
+df
+d
+f
+d
+fd
+f
+dfdfd
+fd
+f
+## Dependencies
