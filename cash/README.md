@@ -1,6 +1,6 @@
 
 
-![currency_pic](img/currency.jpg) 
+![currency_pic](img/currency.jpg)  
 **Table of Contents**  
 
 - [Introduction](#Introduction)
