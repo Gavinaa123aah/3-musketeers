@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-
+//this module is used to parse user commandline input
 'use strict';
 
 const Conf = require('conf');
