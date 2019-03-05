@@ -43,19 +43,19 @@ Getting help about parameter
 ```sh
 cash --help
 ```
-![help_img](img/screenshot3.jpg)
+![help_img](img/screenshots3.jpg)
 ### Step 2
 you can get defaul currencies from USD to (eur, gbp, jpy)
 ```sh
 cash
 ```
-![default](img/screenshot1.jpg)
+![default](img/screenshots1.jpg)
 ### Step 3
 you can calculates the exchange rate for the specified currency
 ```sh
 cash 10 usd cny
 ```
-![specify](img/screenshot2.jpg)
+![specify](img/screenshots2.jpg)
 
 ## dependencies
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
