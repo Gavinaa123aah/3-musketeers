@@ -1,17 +1,17 @@
 
 
-![3-musketeers](https://i5.hexunimg.cn/2012-12-31/149672266.jpg)
+![currency_pic](img/currency.jpg) 
 **Table of Contents**  
 
 - [Introduction](#Introduction)
 - [Dependencies](#Dependencies)
+- [Modules](#Modules)
 - [How to do](#How-to-do)
   - [Step 1](#Step-1)
   - [Step 2](#Step-2)
   - [Step 3](#Step-3)
 
-![mahua](img/currenvy.jpg) 
-# Introduction
+## Introduction
 this is a currency conversion tool which can be used to calculate exchange rate between differant currencies according to Real-time currency
 
 ## Dependencies
@@ -26,11 +26,36 @@ there are some dependencies to be installed:
 		"ora": "^3.2.0"
 	}
 ```
-## How to do
+## Modules
+constants.js . 
+this module include some configuration parameter . 
+  
+index.js . 
+this module is used to read parameter from user inputing,you can think it's a entrence . 
+  
+constants.js . 
+this module is used to calculate currencies . 
+   
+## How to do . 
 
-### Step 1
+### Step 1 . 
+Getting help about parameter
+```sh
+cash --help
+```
+![help_img](img/screenshots3.jpg)
 ### Step 2
+you can get defaul currencies from USD to (eur, gbp, jpy)
+```sh
+cash
+```
+![default](img/screenshots1.jpg)
 ### Step 3
+you can calculates the exchange rate for the specified currency
+```sh
+cash 10 usd cny
+```
+![specify](img/screenshots2.jpg)
 
 ## dependencies
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
