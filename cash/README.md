@@ -10,7 +10,7 @@
   - [Step 2](#Step-2)
   - [Step 3](#Step-3)
 
-![mahua](i5.hexunimg.cn/2012-12-31/149672266.jpg) 
+![mahua](img/currenvy.jpg) 
 # Introduction
 this is a currency conversion tool which can be used to calculate exchange rate between differant currencies according to Real-time currency
 
